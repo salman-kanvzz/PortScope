@@ -35,7 +35,7 @@ PortScope/
 
 ## Installation
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/salman-kanvzz/PortScope.git
 cd PortScope
 python3 --version
 ```
