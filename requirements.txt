@@ -1,0 +1,4 @@
+# PortScope uses Python standard library only.
+# No third-party packages are required.
+#
+# Recommended: Python 3.8+
